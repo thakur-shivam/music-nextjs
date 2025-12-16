@@ -26,7 +26,7 @@ const musicSchoolContent = [
             'Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
         content: (
             <div className="flex h-full w-full items-center justify-center text-white">
-                <img
+                <Image
                 src="/courses/drumming.jpg"
                 width={300}
                 height={300}
@@ -42,7 +42,7 @@ const musicSchoolContent = [
             'Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
         content: (
             <div className="flex h-full w-full items-center justify-center text-white">
-                <img
+                <Image
                 src="/courses/guitar.jpg"
                 width={300}
                 height={300}
@@ -58,7 +58,7 @@ const musicSchoolContent = [
             'Immerse yourself in an interactive learning experience where feedback is immediate, just like real-time changes in a collaborative project. This approach enhances your understanding and mastery of music concepts and performance techniques.',
         content: (
             <div className="flex h-full w-full items-center justify-center text-white">
-                <img
+                <Image
                 src="/courses/piano.jpg"
                 width={300}
                 height={300}
@@ -74,7 +74,7 @@ const musicSchoolContent = [
             'Our curriculum is continuously updated to include the latest music education trends and technologies, ensuring you’re always learning with the most current and effective methods. Say goodbye to outdated materials and welcome an education that evolves with the industry.',
         content: (
             <div className="flex h-full w-full items-center justify-center text-white">
-                <img
+                <Image
                 src="/courses/jazz.jpg"
                 width={300}
                 height={300}
@@ -90,7 +90,7 @@ const musicSchoolContent = [
             'With our expansive resource library and dynamic course offerings, you’ll never find yourself without something new to explore. Our platform provides continuous opportunities for growth, ensuring your musical skills are always advancing.',
         content: (
             <div className="flex h-full w-full items-center justify-center text-white">
-                <img
+                <Image
                 src="/courses/edm.jpg"
                 width={300}
                 height={300}
