@@ -38,7 +38,7 @@ function page() {
                                 {course.description}
                             </CardItem>
                             <CardItem translateZ="100" className="w-full mt-4">
-                                <img
+                                <Image
                                     src={course.image}
                                     height="1000"
                                     width="1000"

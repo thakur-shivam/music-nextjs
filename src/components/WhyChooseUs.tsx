@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { StickyScroll } from "./ui/sticky-scroll-reveal";
 
 const musicSchoolContent = [
@@ -9,7 +10,7 @@ const musicSchoolContent = [
             'Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
         content: (
             <div className="flex h-full w-full items-center justify-center text-white">
-                <img
+                <Image
                 src="/courses/classical-music.jpg"
                 width={300}
                 height={300}
